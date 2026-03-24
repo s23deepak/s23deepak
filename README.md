@@ -22,7 +22,7 @@ AI Engineer with 3+ years of experience building proprietary middleware and agen
 
 ### 🚀 Featured Projects
 
-#### [MedGemma Clinical Decision Support System](https://github.com/s23deepak/MedGemma)
+#### [MedGemma Clinical Decision Support System](https://github.com/s23deepak/MedGemma) | [Watch Video](https://drive.google.com/file/d/1UiBKbb6ZyBT-2J4OpA_aAXlZ0uLX0Ml7/view?usp=drive_link)
 * Built a multimodal assistant using MedGemma 4B for real-time medical image analysis (X-ray, MRI) and SOAP note generation.
 * Architected a HIPAA-compliant RAG pipeline for patient context retrieval using FHIR-compliant EHR data and encrypted DICOM images.
 * Developed a LangGraph-based state graph where multiple MedGemma 4B instances execute in parallel to compute independent differential diagnoses and inter-agent agreement.
