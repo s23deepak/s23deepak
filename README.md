@@ -67,4 +67,4 @@ AI Engineer with 3+ years of experience building proprietary middleware and agen
 
 ### 📫 Connect with Me
 * **Email:** 23.deepak.s@gmail.com 
-* **Links:** [LinkedIn](https://www.linkedin.com/in/s23deepak) | [GitHub](https://github.com/s23deepak) | [cite_start][AI Writeups](https://medium.com/@s23deepak)
+* **Links:** [LinkedIn](https://www.linkedin.com/in/s23deepak) | [GitHub](https://github.com/s23deepak) | [AI Writeups](https://medium.com/@s23deepak)
