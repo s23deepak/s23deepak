@@ -49,22 +49,22 @@ AI Engineer with 3+ years of experience building proprietary middleware and agen
 ### 💼 Professional Experience
 
 **Freelance | Machine Learning Specialist**
-* [cite_start]Deployed a custom "Morning Briefing" multi-agent system using CrewAI to automate patient data synthesis and streamline clinical reporting.
-* [cite_start]Executed RLHF and GRPO fine-tuning on NVIDIA H100 and AMD MI300X GPUs to optimize model performance for clinical safety.
+* Deployed a custom "Morning Briefing" multi-agent system using CrewAI to automate patient data synthesis and streamline clinical reporting.
+* Executed RLHF and GRPO fine-tuning on NVIDIA H100 and AMD MI300X GPUs to optimize model performance for clinical safety.
 
 **Sopra Steria | Machine Learning Engineer**
-* [cite_start]Engineered a RAG pipeline using LangChain and ChromaDB to transform static GDPR/ENISA policy documents into interactive agentic interfaces.
-* [cite_start]Developed FastAPI-based middleware and BiLSTM models to automate the routing of 10,000+ monthly service tickets, reducing manual triage by 40%.
+* Engineered a RAG pipeline using LangChain and ChromaDB to transform static GDPR/ENISA policy documents into interactive agentic interfaces.
+* Developed FastAPI-based middleware and BiLSTM models to automate the routing of 10,000+ monthly service tickets, reducing manual triage by 40%.
 
 ---
 
 ### 🎓 Education & Research
-* [cite_start]**MS in Applied Data Analytics**, Boston University (Jan 2024 - May 2025).
-* [cite_start]**Research Assistant (Reinforcement Learning):** Architected an open-source C++ package integrating LibTorch with OpenAI Gym for high-performance RL including A2C and PPO.
-* [cite_start]**Teaching Assistant (Big Data Analytics):** Led sessions on deploying PySpark solutions across GCP and AWS for large-scale batch and streaming.
+* **MS in Applied Data Analytics**, Boston University (Jan 2024 - May 2025).
+* **Research Assistant (Reinforcement Learning):** Architected an open-source C++ package integrating LibTorch with OpenAI Gym for high-performance RL including A2C and PPO.
+* **Teaching Assistant (Big Data Analytics):** Led sessions on deploying PySpark solutions across GCP and AWS for large-scale batch and streaming.
 
 ---
 
 ### 📫 Connect with Me
-* [cite_start]**Email:** 23.deepak.s@gmail.com 
+* **Email:** 23.deepak.s@gmail.com 
 * **Links:** [LinkedIn](https://www.linkedin.com/in/s23deepak) | [GitHub](https://github.com/s23deepak) | [cite_start][AI Writeups](https://medium.com/@s23deepak)
